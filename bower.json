@@ -1,0 +1,12 @@
+{
+  "name": "ss",
+  "version": "0.0.1",
+  "moduleType": [
+    "globals"
+  ],
+  "private": true,
+  "cwd": "vendor/assets/bower_components",
+  "dependencies": {
+    "bootstrap-sass-official": "latest"
+  }
+}
